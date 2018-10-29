@@ -1,8 +1,8 @@
-# ![Parts -](./images/PCParts.png) Mini ITX Build
-![Intel -](./images/Inteli9.png) This build is an Intel Based Build due to the cooler temperatures of the Intel i9 processors vs. the latest AMD Ryzen or ThreadRippers.
+# <img src="./images/PCParts.png" width="71" height="87" /> Mini ITX Build
+<img src="./images/Inteli9.png" width="50" height="50" /> This build is an Intel Based Build due to the cooler temperatures of the Intel i9 processors vs. the latest AMD Ryzen or ThreadRippers.
 
 [Plus I also liked the package :) ] 
-![i9](./images/Inteli9-packaging-sm.png)
+<p align="center"><img src="./images/Inteli9-packaging-sm.png" width="192" height="144" /></p>
 
 | Part Type | Brand | Part | Description | Price | Site | URL |
 |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |
