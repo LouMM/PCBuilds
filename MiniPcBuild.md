@@ -7,7 +7,7 @@
 | Part Type | Brand | Part | Description | Price | Site | URL |
 |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |
 | Processor | Intel | Intel Core i9-9900K Coffee Lake 8-Core | LGA 1151 | $579.99 | NewEgg | https://www.newegg.com/Product/Product.aspx?Item=N82E16819117957 |
-| Graphics | Asus | ASUS ROG STRIX GeForce RTX 2080 | GeForce RTX 2080 PCI Express 3.0 | $717.00 | NewEgg | https://www.newegg.com/Product/Product.aspx?Item=9SIA1K664T0812 |
+| Graphics | MSI | MSI RTX 2080 SEA Hawk X | MSI RTX 2080 SEA Hawk X Gaming GeForce 256-bit HDMI/DP/USB 3.1 | $899.99 | Amazon | https://amzn.com/B07HSQD597 |
 | Motherboard | ASRock | ASRock Z390 PHANTOM GAMING-ITX/AC | Mini ITX | $189.99 | NewEgg | https://www.newegg.com/Product/Product.aspx?Item=N82E16813157854 
 | Hard drive | WD | WD Black 500GB | M.2 SSD | $130.00 | NewEgg | https://www.newegg.com/Product/Product.aspx?Item=N82E16820250098 
 | Power | Corsair | CORSAIR SF Series SF450 450W 80 PLUS |  | $85.00 | NewEgg | 
