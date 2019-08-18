@@ -17,8 +17,8 @@
 
 # AMD Release Schedule
 
-| Graphics Segment | 2014-2015	| 2015-2016	|2016-2017 |	2017-2018 |	2018-2019 |
-|     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |
+| Graphics Segment | 2014-2015	| 2015-2016	|2016-2017 | 2017-2018  | 2018-2019 |
+|     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |   
 |Titan Tier |	Titan X (Maxwell)	|Titan X (Pascal)|	Titan Xp (Pascal)|	Titan V (Volta)	|Titan RTX (Turing)|
 |Price|$999 US|$1199 US|$1199 US|$2999 US|$2499 US|
 |Ultra Enthusiast Tier|GeForce GTX 980 Ti|GeForce GTX 980 Ti|GeForce GTX 1080 Ti|GeForce RTX 2080 Ti|GeForce RTX 2080 Ti|
