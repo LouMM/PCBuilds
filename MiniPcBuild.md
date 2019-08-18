@@ -15,7 +15,7 @@
 | Case Fan | Noctua  | NF-A9 PWM  | 92x25mm A-series fan | $16.95 | Amazon  | https://amzn.com/B00RUZ059O |
 |  |  |  | <b>Total</b> | $‭1,910.91‬ |  | |
 
-</p>
+# AMD Release Schedule
 
 | Graphics Segment | 2014-2015	| 2015-2016	|2016-2017 |	2017-2018 |	2018-2019 |
 |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |
