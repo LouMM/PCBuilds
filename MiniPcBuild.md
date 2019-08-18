@@ -1,7 +1,5 @@
 # <img src="./images/PCParts.png" width="71" height="87" /> Mini ITX Build
-<img src="./images/AMDRyzenThreadRipper.png" /> This build is an Intel Based Build due to the cooler temperatures of the Intel i9 processors vs. the latest AMD Ryzen or ThreadRippers.
-
-[Plus I also liked the package :) ] 
+<img src="./images/AMDRyzenThreadRipper.png" /> This build is an AMD Based Build, Ryzen's 7nm keeps the device cooler with  more cores..
 <p align="center"><img src="./images/Ryzen7mm.png" /><img src="./images/Streamcom_DA2.png" /></p>
 
 | Part Type | Brand | Part | Description | Price | Site | URL |
