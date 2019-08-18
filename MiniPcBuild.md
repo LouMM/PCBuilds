@@ -14,3 +14,20 @@
 | Memory | G.Skill | TridentZ RGB Series 32GB DDR4-3200 |  | $179.99 | NewEgg |https://www.newegg.com/g-skill-32gb-288-pin-ddr4-sdram/p/N82E16820232748 |
 | Case Fan | Noctua  | NF-A9 PWM  | 92x25mm A-series fan | $16.95 | Amazon  | https://amzn.com/B00RUZ059O |
 |  |  |  | <b>Total</b> | $‭1,910.91‬ |  | |
+
+</p>
+
+| Graphics Segment | 2014-2015	| 2015-2016	|2016-2017 |	2017-2018 |	2018-2019 |
+|     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |
+|Titan Tier |	Titan X (Maxwell)	|Titan X (Pascal)|	Titan Xp (Pascal)|	Titan V (Volta)	|Titan RTX (Turing)|
+|Price|$999 US|$1199 US|$1199 US|$2999 US|$2499 US|
+|Ultra Enthusiast Tier|GeForce GTX 980 Ti|GeForce GTX 980 Ti|GeForce GTX 1080 Ti|GeForce RTX 2080 Ti|GeForce RTX 2080 Ti|
+|Price|$649 US|$649 US|$699 US|$999 US|$999 US|
+|Enthusiast Tier|GeForce GTX 980|GeForce GTX 1080|GeForce GTX 1080|GeForce RTX 2080|GeForce RTX 2080 SUPER|
+|Price|$549 US|$549 US|$549 US|$699 US|$699 US|
+|High-End Tier|GeForce GTX 970|GeForce GTX 1070|GeForce GTX 1070|GeForce RTX 2070|GeForce RTX 2070 SUPER|
+|Price|$329 US|$379 US|$379 US|$499 US|$499 US|
+|Mainstream Tier|GeForce GTX 960|GeForce GTX 1060|GeForce GTX 1060|GeForce GTX 1060|GeForce RTX 2060 SUPER GeForce RTX 2060 GeForce GTX 1660 Ti GeForce GTX 1660|
+|Price|$199 US|$249 US|$249 US|$249 US|$399 US $349 US $279 US $219 US|
+|Entry Tier|GTX 750 Ti GTX 750|GTX 950|GTX 1050 Ti GTX 1050|GTX 1050 Ti GTX 1050|GTX 1650|
+|Price|$149 US $119 US|$149 US|$139 US $109 US|$139 US $109 US|$149 US|
