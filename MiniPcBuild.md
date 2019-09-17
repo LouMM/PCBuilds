@@ -13,6 +13,8 @@
 | Cooling | Asetek | Astek 5645LT | 92mm SFF AIO Liquid Cooler  | $100 | asetek | https://www.asetek.com/gaming/technology-for-gamingdiy/cpu-cooling/small-form-factor-cpu-cooler/ |
 | Memory | G.Skill | TridentZ RGB Series 32GB DDR4-3200 |  | $179.99 | NewEgg |https://www.newegg.com/g-skill-32gb-288-pin-ddr4-sdram/p/N82E16820232748 |
 | Case Fan | Noctua  | NF-A9 PWM  | 92x25mm A-series fan | $16.95 | Amazon  | https://amzn.com/B00RUZ059O |
+| Monitor | MSI  | Prestige PS341WU | PS341WU 34" 21:9 5K IPS Monitor | $1,199.99 | B&H  | https://www.bhphotovideo.com/c/product/1503260-REG/msi_prestige_ps341wu_34_21_9.html |
+| Monitor 2 | Dell  | S3220DGF | 32" Curved Gaming Monitorr | $567.99 x2 =  1135.98 | Dell.com  | https://www.dell.com/en-us/shop/accessories/apd/210-atyt |
 |  |  |  | <b>Total</b> | $‭1,880.80‬ |  | |
 
 # AMD Release Schedule
