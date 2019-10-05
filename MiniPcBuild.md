@@ -1,21 +1,20 @@
 # <img src="./images/PCParts.png" width="71" height="87" /> Mini ITX Build
-<img src="./images/AMDRyzenThreadRipper.png" /> This build is an AMD Based Build, Ryzen's 7nm keeps the device cooler with  more cores..
-<p align="center"><img src="./images/Ryzen7mm.png" /><img src="./images/Streamcom_DA2.png" /></p>
+<img src="./images/AMDRyzenThreadRipper.png" width=75px /> This build is an AMD Based Build, Ryzen's 7nm keeps the device cooler with  more cores..
+<p align="center"><img src="./images/Ryzen7mm.png" width=400px /><img src="./images/Streamcom_DA2.png" width=400px /></p>
 
 | Part Type | Brand | Part | Description | Price | Site | URL |
 |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |     :---      |
-| Processor | AMD | AMD RYZEN 9 3900X 12-Core 3.8 GHz | Socket AM4 105W 100-100000023BOX  | $499.99 | B&H | https://www.bhphotovideo.com/c/product/1485447-REG/amd_100_100000023box_ryzen_9_3900x_3_8.html |
-| Graphics | Gigabyte | GeForce RTX 2070 Super GAMING OC | 8GB 256-Bit GDDR6, GV-N207SGAMING OC-8GC  | $529.99 | Amazon | https://amzn.com/B07TV9CLL5 |
+| Processor | AMD | AMD RYZEN 9 3900X 12-Core 3.8 GHz | Socket AM4 105W 100-100000023BOX  | $564.99 | B&H | https://www.bhphotovideo.com/c/product/1485447-REG/amd_100_100000023box_ryzen_9_3900x_3_8.html |
+| Graphics | Sapphire | Sapphire Radeon Nitro+ Rx 5700 Xt | 8GB GDDR6 Dual HDMI/ Dual DP OC  | $439.00  | Amazon | https://amzn.com/B07XMNGVVD |
 | Motherboard | MSI | B450I GAMING PLUS AC  |B450I GAMING PLUS AC AM4 Mini ITX - AMD B450 | $129.99 | NewEgg | https://www.newegg.com/msi-performance-gaming-b450i-gaming-plus-ac/p/N82E16813144190 
 | Hard drive | WD | WD Black 500GB | M.2 SSD | $99.89 | NewEgg | [https://www.newegg.com/Product/Product.aspx?Item=N82E16820250098 ](https://www.amazon.com/gp/product/B07MH2P5ZD)
 | Power | Corsair | CORSAIR SF Series SF450 450W 80 PLUS |  | $85.00 | NewEgg | 
 | Case | Streacom | DA2 |  Mini-Itx Case SKU: ST-DA2S [EAN: 8718469091270](https://streacom.com/products/da2-chassis/) | $239.00 | NewEgg  | https://www.newegg.com/p/2AM-005T-00028?item=9SIA5FY9B97666 https://www.youtube.com/watch?v=VHwJ9emNVQo (backup: Metallic Gear Neo Series MG-NE210G_BK01 or Louqe Ghost s1)
 | Cooling | Asetek | Astek 5645LT | 92mm SFF AIO Liquid Cooler  | $100 | asetek | https://www.asetek.com/gaming/technology-for-gamingdiy/cpu-cooling/small-form-factor-cpu-cooler/ |
+| Cooling | NZXT | Kraken X62 | 280mm - All-In-One RGB CPU Liquid Cooler - CAM-Powered  | $139.88 | Amazon | https://www.amazon.com/NZXT-Kraken-360mm-All-One/dp/B06XX8Q1CL |
 | Memory | G.Skill | TridentZ RGB Series 32GB DDR4-3200 |  | $179.99 | NewEgg |https://www.newegg.com/g-skill-32gb-288-pin-ddr4-sdram/p/N82E16820232748 |
 | Case Fan | Noctua  | NF-A9 PWM  | 92x25mm A-series fan | $16.95 | Amazon  | https://amzn.com/B00RUZ059O |
-| Monitor | MSI  | Prestige PS341WU | PS341WU 34" 21:9 5K IPS Monitor | $1,199.99 | B&H  | https://www.bhphotovideo.com/c/product/1503260-REG/msi_prestige_ps341wu_34_21_9.html |
-| Monitor 2 | Dell  | S3220DGF | 32" Curved Gaming Monitorr | $567.99 x2 =  1135.98 | Dell.com  | https://www.dell.com/en-us/shop/accessories/apd/210-atyt |
-|  |  |  | <b>Total</b> | $‭1,880.80‬ |  | |
+|  |  |  | <b>Total</b> | $1,894.69‬ |  | |
 
 # AMD Release Schedule
 
